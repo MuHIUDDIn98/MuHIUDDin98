@@ -8,7 +8,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 # 💻 Language Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-<h3 align="left">Automation testing Tools:</h3>
+<h3 align="left">Automation testing and security Tools:</h3>
 <p>
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png"alt="Burpsuite" width="40" height="40"/> </a>
@@ -16,6 +16,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
                 <a href="https://appium.io/docs/en/latest/intro/" target="_blank" rel="noreferrer"> <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png"alt="Appium" width="150" height="40"/> </a>
                 <a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://media.trustradius.com/vendor-logos/GD/vY/ELSDRTZ4CJV1.PNG"alt="Burpsuite" width="40" height="40"/> </a>
                 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*sDXkyuukA4fRHuiu4UFctw.png"alt="Postman" width="100" height="40"/> </a>
+                <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T111A2PA4247PT17X31Y0D1034344546W28786H28786/views/1,width=550,height=550,appearanceId=2,backgroundColor=000000,noPt=true/cyber-security-hacker-nmap-mens-hoodie.jpg" width="50" height="50"/> </a>
                 
 </p>
 <h3 align="left">Operation system skills:</h3>
