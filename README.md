@@ -25,7 +25,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
                 <a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://media.trustradius.com/vendor-logos/GD/vY/ELSDRTZ4CJV1.PNG"alt="Burpsuite" width="40" height="40"/> </a>
                 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*sDXkyuukA4fRHuiu4UFctw.png"alt="Postman" width="100" height="40"/> </a>
                 <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="50" height="50"/> </a>
-                <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:705/1*jhOWv-JzWbg8MvDo0vnVEA.png" width="50" height="50"/> </a>
+                <a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:705/1*jhOWv-JzWbg8MvDo0vnVEA.png" width="150" height="70"/> </a>
                 
 </p>
 
