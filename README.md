@@ -1,10 +1,12 @@
 # 💫 About Me:
 Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a passion for ensuring the highest standards of quality and security in software development.
-###Skills:
+
+
+###**Skills**:
 -specialize in both manual and automation testing methodologies.
--API automation testing, 
--security and performance testing, 
--web and mobile automation testing. 
+-API automation testing
+-security and performance testing
+-web and mobile automation testing (Native and Hybrid both) 
 
 
 ## 🌐 Socials:
