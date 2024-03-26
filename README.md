@@ -5,12 +5,6 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-muhiuddin-a0b3331a7/) 
 
-# 💻 Language Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-# 💻 Problem solving:
-![](https://leetcard.jacoblin.cool/muhiuddinanik?animation=false) <a href="https://codeforces.com/profile/anik98"><img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Codeforces" /></a>
-
 <h3 align="left">Automation testing and security Tools:</h3>
 <p>
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -21,6 +15,14 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
                 <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="50" height="50"/> </a>
                 
 </p>
+
+# 💻 Language Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+# 💻 Problem solving:
+![](https://leetcard.jacoblin.cool/muhiuddinanik?animation=false) <a href="https://codeforces.com/profile/anik98"><img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Codeforces" /></a>
+
+
 <h3 align="left">Operation system skills:</h3>
 <p>
                 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
