@@ -10,7 +10,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 
 # 💻 Problem solving:
 <a href="https://codeforces.com/profile/anik98"><img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Codeforces" /></a>
-<a href="https://leetcode.com/muhiuddinanik/"><img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Codeforces" /></a>
+<a href="https://leetcode.com/muhiuddinanik/"><img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leetcode" /></a>
 
 <h3 align="left">Automation testing and security Tools:</h3>
 <p>
