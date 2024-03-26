@@ -29,7 +29,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
                 
 </p>
 
-## Appium installation Configuration and Server setup : 
+## Appium installation Configuration and Server setup Note Book: 
 - https://relic-amaranthus-d9a.notion.site/Mobile-Automation-testing-with-python-java-Appium-51f86f2ad6ea49be861388fe7c241a19
 
 # 💻 Language Stack:
