@@ -50,12 +50,14 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MuHIUDDIn98&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <h3 align="left">Networking Skills:</h3>
 <p>
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.batna24.com/products/pages/testy-urzadzen/mikrotik-hap-ac3-wifi/mikrotik%20red%20logo.webp" alt="Mikrotik" width="150" height="40"/> </a>           
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=MuHIUDDIn98&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
