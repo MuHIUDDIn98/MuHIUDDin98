@@ -52,7 +52,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 ---
 <h3 align="left">Networking Skills:</h3>
 <p>
-                <a href="" target="_blank" rel="noreferrer"> <img src="https://www.batna24.com/products/pages/testy-urzadzen/mikrotik-hap-ac3-wifi/mikrotik%20red%20logo.webp" alt="Mikrotik" width="150" height="40"/> </a>           
+                <a href="" target="_blank" rel="noreferrer"> <img src="https://thehackernews.com/images/-WNIWDNKbqJ8/W2QcKQCTrjI/AAAAAAAAxvs/3dtC_3Da1PcGEs31SdC99hKLZhv44wmcwCLcBGAs/s728-rw-e30/router-hacking.png" alt="Mikrotik" width="150" height="40"/> </a>           
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=MuHIUDDIn98&icon=0&color=0)](https://visitcount.itsvg.in)
