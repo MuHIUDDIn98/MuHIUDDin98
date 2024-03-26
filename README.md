@@ -45,8 +45,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/220px-Red_Hat_logo.svg.png"alt="Burpsuite" width="40" height="40"/> </a>
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png"alt="Burpsuite" width="40" height="40"/> </a>
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180328/skq/kisspng-logo-windows-8-windows-7-microsoft-8-5abc1c77a59fe7.0872489215222774956784.jpg" width="40" height="40"/> </a>
-                <a href="" target="_blank" rel="noreferrer"> <img src="https://www.optigo.net/wp-content/uploads/2022/07/Picture1-1-990x323-1.png" width="40" height="40"/> </a>
-                <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" width="40" height="40"/> </a>
+
                 
 </p>
 
@@ -62,7 +61,9 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 <h3 align="left">Networking Skills:</h3>
 <p>
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://thehackernews.com/images/-WNIWDNKbqJ8/W2QcKQCTrjI/AAAAAAAAxvs/3dtC_3Da1PcGEs31SdC99hKLZhv44wmcwCLcBGAs/s728-rw-e30/router-hacking.png" alt="Mikrotik" width="150" height="70"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="<a href="" target="_blank" rel="noreferrer"> <img src="https://thehackernews.com/images/-WNIWDNKbqJ8/W2QcKQCTrjI/AAAAAAAAxvs/3dtC_3Da1PcGEs31SdC99hKLZhv44wmcwCLcBGAs/s728-rw-e30/router-hacking.png" alt="Mikrotik" width="150" height="70"/> </a> " alt="Mikrotik" width="150" height="70"/> </a> 
+                                <a href="" target="_blank" rel="noreferrer"> <img src="https://www.optigo.net/wp-content/uploads/2022/07/Picture1-1-990x323-1.png" width="140" height="40"/> </a>
+                <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" width="140" height="40"/> </a>
+   
 </p>
 
 ### Cyber security short NoteBook:
