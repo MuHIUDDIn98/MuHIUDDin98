@@ -33,8 +33,6 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 </p>
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
-
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuHIUDDIn98&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuHIUDDIn98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
