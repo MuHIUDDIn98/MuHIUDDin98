@@ -101,7 +101,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
   <tbody>
     <tr>
       <td><a href="https://github.com/MuHIUDDIn98/Py_Networking"><b>Network scanner using scapy</b></a></td>
-      <td><b>Description</b></td>
+      <td><b>This tools can scan local subnet and findout alive IP and MAC address</b></td>
     </tr>
    <tr>
       <td><a href=""><b>project2</b></a></td>
