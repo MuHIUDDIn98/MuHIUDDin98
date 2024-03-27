@@ -67,8 +67,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
    
 </p>
 
-### Cyber security short NoteBook:
-- https://relic-amaranthus-d9a.notion.site/Cybersecurity-7656008456a043a7895f7a5989e5397b
+[Cyber security short NoteBook](https://relic-amaranthus-d9a.notion.site/Cybersecurity-7656008456a043a7895f7a5989e5397b)
 
 [![](https://visitcount.itsvg.in/api?id=MuHIUDDIn98&icon=0&color=0)](https://visitcount.itsvg.in)
 
