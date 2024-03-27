@@ -73,33 +73,16 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href=""><b>API Automation testing</b></a></td>
-      <td><img alt="Stars" src=""/></td>
-      <td><img alt="Forks" src=""/></td>
-      <td><img alt="Issues" src=""/></td>
-      <td><img alt="Pull Requests" src=""/></td>
+      <td><a href=""><b>API automation testing</b></a></td>
     </tr>
-	  <tr>
+   <tr>
       <td><a href=""><b>project2</b></a></td>
-      <td><img alt="Stars" src=""/></td>
-      <td><img alt="Forks" src=""/></td>
-      <td><img alt="Issues" src=""/></td>
-      <td><img alt="Pull Requests" src=""/></td>
     </tr>
     <tr>
       <td><a href=""><b>projects 3</b></a></td>
-      <td><img alt="Stars" src=""/></td>
-      <td><img alt="Forks" src=""/></td>
-      <td><img alt="Issues" src=""/></td>
-      <td><img alt="Pull Requests" src=""/></td>
     </tr>
   </tbody>
 </table>
@@ -123,7 +106,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
   </tbody>
 </table>
 
-[![](https://visitcount.itsvg.in/api?id=MuHIUDDIn98&icon=0&color=0)](https://visitcount.itsvg.in)
+[![visited people](https://visitcount.itsvg.in/api?id=MuHIUDDIn98&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
