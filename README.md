@@ -17,6 +17,29 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-muhiuddin-a0b3331a7/) 
 
+<h3>Automation testing Projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>short Description</b></td>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/MuHIUDDIn98/Automated_testing_Library_API_Report_with_newman"><b>API automation testing and report generation using Postman and Newman</b></a></td>
+      <td><b>this is a Library book listing API autmation  testing  </b></td>
+    </tr>
+<!--    <tr>
+      <td><a href=""><b>project2</b></a></td>
+      <td><b>Description</b></td>
+    </tr> -->
+<!--     <tr>
+      <td><a href=""><b>projects 3</b></a></td>
+      <td><b>Description</b></td>
+    </tr> -->
+  </tbody>
+</table>
+
 <h3 align="left">Automation testing and security Tools:</h3>
 <p>
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -68,28 +91,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 
 [Cyber security short NoteBook](https://relic-amaranthus-d9a.notion.site/Cybersecurity-7656008456a043a7895f7a5989e5397b)
 
-<h3>Automation testing Projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>short Description</b></td>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/MuHIUDDIn98/Automated_testing_Library_API_Report_with_newman"><b>API automation testing and report generation using Postman and Newman</b></a></td>
-      <td><b>this is a Library book listing API autmation  testing  </b></td>
-    </tr>
-   <tr>
-      <td><a href=""><b>project2</b></a></td>
-      <td><b>Description</b></td>
-    </tr>
-    <tr>
-      <td><a href=""><b>projects 3</b></a></td>
-      <td><b>Description</b></td>
-    </tr>
-  </tbody>
-</table>
+
 
 <h3>Python Networking Projects</h3>
 <table>
