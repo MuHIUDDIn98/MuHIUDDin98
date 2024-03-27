@@ -96,7 +96,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>Description</b></td>
+      <td><b>Short Description</b></td>
   </thead>
   <tbody>
     <tr>
