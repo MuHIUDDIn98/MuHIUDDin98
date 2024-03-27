@@ -68,43 +68,50 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 
 [Cyber security short NoteBook](https://relic-amaranthus-d9a.notion.site/Cybersecurity-7656008456a043a7895f7a5989e5397b)
 
-<h3>Automation testing Projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href=""><b>API automation testing</b></a></td>
-    </tr>
-   <tr>
-      <td><a href=""><b>project2</b></a></td>
-    </tr>
-    <tr>
-      <td><a href=""><b>projects 3</b></a></td>
-    </tr>
-  </tbody>
-</table>
-
-<h3>Python Networking Projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/MuHIUDDIn98/Py_Networking"><b>Network scanner using scapy</b></a></td>
-    </tr>
-   <tr>
-      <td><a href=""><b>project2</b></a></td>
-    </tr>
-    <tr>
-      <td><a href=""><b>projects 3</b></a></td>
-    </tr>
-  </tbody>
-</table>
+<div style="display: flex;">
+    <div style="flex: 1; margin-right: 10px;">
+        <h3>Automation testing Projects</h3>
+        <table>
+            <thead align="center">
+                <tr>
+                    <td><b>🎁 Projects</b></td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href=""><b>API automation testing</b></a></td>
+                </tr>
+                <tr>
+                    <td><a href=""><b>project2</b></a></td>
+                </tr>
+                <tr>
+                    <td><a href=""><b>projects 3</b></a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <h3>Python Networking Projects</h3>
+        <table>
+            <thead align="center">
+                <tr>
+                    <td><b>🎁 Projects</b></td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="https://github.com/MuHIUDDIn98/Py_Networking"><b>Network scanner using scapy</b></a></td>
+                </tr>
+                <tr>
+                    <td><a href=""><b>project2</b></a></td>
+                </tr>
+                <tr>
+                    <td><a href=""><b>projects 3</b></a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
 
 [![visited people](https://visitcount.itsvg.in/api?id=MuHIUDDIn98&icon=0&color=0)](https://visitcount.itsvg.in)
 
