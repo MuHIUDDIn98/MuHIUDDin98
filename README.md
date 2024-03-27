@@ -70,17 +70,14 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 
 <div style="display: flex;">
     <div style="flex: 50%;">
-        <h3>Table 1</h3>
-        
+        <h3>Table 1</h3> 
         | Header 1 | Header 2 |
         | -------- | -------- |
         | Data 1   | Data 2   |
         | Data 3   | Data 4   |
     </div>
-    
     <div style="flex: 50%;">
         <h3>Table 2</h3>
-        
         | Header A | Header B |
         | -------- | -------- |
         | Data A   | Data B   |
