@@ -73,12 +73,12 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>Description</b></td>
+      <td><b>short Description</b></td>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/MuHIUDDIn98/Automated_testing_Library_API_Report_with_newman"><b>API automation testing and report generation using Postman and Newman</b></a></td>
-      <td><b>Description</b></td>
+      <td><b>this is a Library book listing API autmation  testing  </b></td>
     </tr>
    <tr>
       <td><a href=""><b>project2</b></a></td>
