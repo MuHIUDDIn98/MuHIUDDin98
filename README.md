@@ -68,23 +68,43 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 
 [Cyber security short NoteBook](https://relic-amaranthus-d9a.notion.site/Cybersecurity-7656008456a043a7895f7a5989e5397b)
 
-<div style="display: flex;">
-    <div style="flex: 50%;">
-        <h3>Table 1</h3> 
-        | Header 1 | Header 2 |
-        | -------- | -------- |
-        | Data 1   | Data 2   |
-        | Data 3   | Data 4   |
-    </div>
-    <div style="flex: 50%;">
-        <h3>Table 2</h3>
-        | Header A | Header B |
-        | -------- | -------- |
-        | Data A   | Data B   |
-        | Data C   | Data D   |
-    </div>
-</div>
+<h3>Automation testing Projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href=""><b>API automation testing</b></a></td>
+    </tr>
+   <tr>
+      <td><a href=""><b>project2</b></a></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>projects 3</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
+<h3>Python Networking Projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/MuHIUDDIn98/Py_Networking"><b>Network scanner using scapy</b></a></td>
+    </tr>
+   <tr>
+      <td><a href=""><b>project2</b></a></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>projects 3</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
 [![visited people](https://visitcount.itsvg.in/api?id=MuHIUDDIn98&icon=0&color=0)](https://visitcount.itsvg.in)
 
