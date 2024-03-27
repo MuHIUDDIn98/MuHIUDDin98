@@ -73,16 +73,20 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>Description</b></td>
   </thead>
   <tbody>
     <tr>
       <td><a href=""><b>API automation testing</b></a></td>
+      <td><b>Description</b></td>
     </tr>
    <tr>
       <td><a href=""><b>project2</b></a></td>
+      <td><b>Description</b></td>
     </tr>
     <tr>
       <td><a href=""><b>projects 3</b></a></td>
+      <td><b>Description</b></td>
     </tr>
   </tbody>
 </table>
@@ -92,16 +96,20 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>Description</b></td>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/MuHIUDDIn98/Py_Networking"><b>Network scanner using scapy</b></a></td>
+      <td><b>Description</b></td>
     </tr>
    <tr>
       <td><a href=""><b>project2</b></a></td>
+      <td><b>Description</b></td>
     </tr>
     <tr>
       <td><a href=""><b>projects 3</b></a></td>
+      <td><b>Description</b></td>
     </tr>
   </tbody>
 </table>
