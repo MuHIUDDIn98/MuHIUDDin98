@@ -127,7 +127,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
   <tbody>
     <tr>
       <td><a href=""><b>Image converter</b></a></td>
-      <td><b>it can resize resulation and size of any format of image image</b></td>
+      <td><b>it can resize resulation and size of any format of  image</b></td>
     </tr>
 <!--    <tr>
       <td><a href=""><b>project2</b></a></td>
