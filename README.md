@@ -104,6 +104,42 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
   </tbody>
 </table>
 
+<h3>Python Networking Projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/MuHIUDDIn98/Py_Networking"><b>Network scanner using scapy</b></a></td>
+      <td><img alt="Stars" src=""/></td>
+      <td><img alt="Forks" src=""/></td>
+      <td><img alt="Issues" src=""/></td>
+      <td><img alt="Pull Requests" src=""/></td>
+    </tr>
+	  <tr>
+      <td><a href=""><b>project2</b></a></td>
+      <td><img alt="Stars" src=""/></td>
+      <td><img alt="Forks" src=""/></td>
+      <td><img alt="Issues" src=""/></td>
+      <td><img alt="Pull Requests" src=""/></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>projects 3</b></a></td>
+      <td><img alt="Stars" src=""/></td>
+      <td><img alt="Forks" src=""/></td>
+      <td><img alt="Issues" src=""/></td>
+      <td><img alt="Pull Requests" src=""/></td>
+    </tr>
+  </tbody>
+</table>
+
 [![](https://visitcount.itsvg.in/api?id=MuHIUDDIn98&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
