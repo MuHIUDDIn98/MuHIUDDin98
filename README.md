@@ -142,7 +142,8 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 
                 
 </p>
-[Linux NoteBook](https://relic-amaranthus-d9a.notion.site/Linux-Essentials-149f0348d325411987d01bc1fe8e169a)
+
+- [Linux NoteBook](https://relic-amaranthus-d9a.notion.site/Linux-Essentials-149f0348d325411987d01bc1fe8e169a)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
