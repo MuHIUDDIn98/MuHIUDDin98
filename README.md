@@ -66,9 +66,6 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 
 
 
-
-[Linux NoteBook](https://relic-amaranthus-d9a.notion.site/Linux-Essentials-149f0348d325411987d01bc1fe8e169a)
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuHIUDDIn98&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuHIUDDIn98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -145,6 +142,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 
                 
 </p>
+[Linux NoteBook](https://relic-amaranthus-d9a.notion.site/Linux-Essentials-149f0348d325411987d01bc1fe8e169a)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
