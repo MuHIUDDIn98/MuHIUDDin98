@@ -65,15 +65,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 - [Codeforces](https://codeforces.com/profile/anik98)
 
 
-<h3 align="left">Operation system skills:</h3>
-<p>
-                <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-                <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/220px-Red_Hat_logo.svg.png"alt="Burpsuite" width="40" height="40"/> </a>
-                <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png"alt="Burpsuite" width="40" height="40"/> </a>
-                <a href="" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180328/skq/kisspng-logo-windows-8-windows-7-microsoft-8-5abc1c77a59fe7.0872489215222774956784.jpg" width="40" height="40"/> </a>
 
-                
-</p>
 
 [Linux NoteBook](https://relic-amaranthus-d9a.notion.site/Linux-Essentials-149f0348d325411987d01bc1fe8e169a)
 
@@ -144,7 +136,15 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
   </tbody>
 </table>
 
+<h3 align="left">Operation system skills:</h3>
+<p>
+                <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+                <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/220px-Red_Hat_logo.svg.png"alt="Burpsuite" width="40" height="40"/> </a>
+                <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png"alt="Burpsuite" width="40" height="40"/> </a>
+                <a href="" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180328/skq/kisspng-logo-windows-8-windows-7-microsoft-8-5abc1c77a59fe7.0872489215222774956784.jpg" width="40" height="40"/> </a>
 
+                
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
