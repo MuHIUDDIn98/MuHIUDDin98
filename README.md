@@ -60,7 +60,9 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 # 💻 Problem solving stats:
-![](https://leetcard.jacoblin.cool/muhiuddinanik?animation=false) <a href="https://codeforces.com/profile/anik98"><img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Codeforces" /></a>
+- [Coding ninjas](https://www.naukri.com/code360/profile/Muhiuddin)
+- [leetcode](https://leetcode.com/muhiuddinanik/) 
+- [Codeforces](https://codeforces.com/profile/anik98)
 
 
 <h3 align="left">Operation system skills:</h3>
