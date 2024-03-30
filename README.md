@@ -131,7 +131,6 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png"alt="Burpsuite" width="40" height="40"/> </a>
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://assets.raspberrypi.com/static/logo-663a71244b0e42ebedb0ddd72abcae73.png" width="40" height="40"/> </a>
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/572/5689572-middle.png" width="40" height="40"/> </a>
-                <a href="" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
 
                 
 </p>
@@ -145,6 +144,14 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" width="140" height="40"/> </a>
                  <a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:705/1*jhOWv-JzWbg8MvDo0vnVEA.png" width="150" height="70"/> </a>
                   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="50" height="50"/> </a>
+   
+</p>
+
+<h3 align="left">Networking Skills:</h3>
+<p>
+<a href="" target="_blank" rel="noreferrer"<imgsrc="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/1200px-Vmware_workstation_16_icon.svg.png" width="70" height="70"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://media.printables.com/media/prints/543748/images/4374616_04ed4585-3662-4652-a84d-                      04621cb9f709/thumbs/inside/1280x960/png/proxmox.webp" height="40"/> </a>
    
 </p>
 
