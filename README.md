@@ -147,11 +147,11 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
    
 </p>
 
-<h3 align="left">Networking Skills:</h3>
+<h3 align="left">Virtualization skills:</h3>
 <p>
-<a href="" target="_blank" rel="noreferrer"<imgsrc="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/1200px-Vmware_workstation_16_icon.svg.png" width="70" height="70"/> </a>
+<a href="" target="_blank" rel="noreferrer"<imgsrc="" width="70" height="70"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://media.printables.com/media/prints/543748/images/4374616_04ed4585-3662-4652-a84d-                      04621cb9f709/thumbs/inside/1280x960/png/proxmox.webp" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5-02AzrhddD_3tI3tVqtOCyhLlZ0VNzpMQZImtVe9Q&s" height="40"/> </a>
    
 </p>
 
