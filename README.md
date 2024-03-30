@@ -149,7 +149,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 
 <h3 align="left">Virtualization skills:</h3>
 <p>
-<a href="" target="_blank" rel="noreferrer"<imgsrc="" width="70" height="70"/> </a>
+<a href="" target="_blank" rel="noreferrer"<imgsrc="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" width="70" height="70"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5-02AzrhddD_3tI3tVqtOCyhLlZ0VNzpMQZImtVe9Q&s" height="40"/> </a>
    
