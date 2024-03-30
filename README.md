@@ -129,7 +129,9 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
                 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/220px-Red_Hat_logo.svg.png"alt="Burpsuite" width="40" height="40"/> </a>
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png"alt="Burpsuite" width="40" height="40"/> </a>
-                <a href="" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180324/gze/kisspng-windows-10-computer-software-microsoft-windows-upd-microsoft-5ab6ffd3757db1.2408741815219424834813.jpg" width="40" height="40"/> </a>
+                <a href="" target="_blank" rel="noreferrer"> <img src="https://assets.raspberrypi.com/static/logo-663a71244b0e42ebedb0ddd72abcae73.png" width="40" height="40"/> </a>
+                <a href="" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/572/5689572-middle.png" width="40" height="40"/> </a>
+                <a href="" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
 
                 
 </p>
