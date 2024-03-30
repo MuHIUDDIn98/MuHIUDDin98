@@ -8,8 +8,9 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 - Web and mobile automation testing (Native and Hybrid both).
 - Security and performance testing , Load testing.
 - API Manual and automation testing.
-- Cyber security defender.
-- Network engineer
+- Cyber security Analyst.
+- Networking
+- Problem solving
 
 
 
