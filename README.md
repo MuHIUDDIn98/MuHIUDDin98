@@ -144,6 +144,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" width="140" height="40"/> </a>
                  <a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:705/1*jhOWv-JzWbg8MvDo0vnVEA.png" width="150" height="70"/> </a>
                   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="50" height="50"/> </a>
+                  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/gns3_94911.png" height="40"/> </a>
    
 </p>
 
@@ -152,6 +153,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/d/d7/VMware_Workstation_logo.jpg/revision/latest/scale-to-width-down/300?cb=20180424012243" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5-02AzrhddD_3tI3tVqtOCyhLlZ0VNzpMQZImtVe9Q&s" height="40"/> </a>
+
    
 </p>
 
@@ -160,6 +162,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 <h3 align="left">VAPT Tools:</h3>
 <p>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180524/egt/kisspng-metasploit-project-penetration-test-security-hacke-5b072f9ad4d962.7481310415271975948718.jpg" height="40"/> </a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="50" height="50"/> </a>
    
 </p>
 
