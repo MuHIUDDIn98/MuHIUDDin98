@@ -170,7 +170,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 
 
 <h3 align="left">Badges:</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/falcon.anik2.png" alt="TryHackMe">
+<a href="https://tryhackme.com/p/falcon.anik2" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/falcon.anik2.png" alt="TryHackMe"></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
