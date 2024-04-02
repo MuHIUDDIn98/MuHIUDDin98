@@ -132,19 +132,29 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
     <tr border: none;>
       <td><b>Automation tools</b></td>
       <td><b>Operating sytems skills</b></td>
+      <td><b>Virtualization tools</b></td>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"alt="selenium" width="30" height="30"/> </a>
+      <td>
+        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"alt="selenium" width="30" height="30"/> </a>
                 <a href="https://appium.io/docs/en/latest/intro/" target="_blank" rel="noreferrer"> <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png"alt="Appium" width="70" height="30"/> </a>
                 <a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://media.trustradius.com/vendor-logos/GD/vY/ELSDRTZ4CJV1.PNG"alt="Burpsuite" width="30" height="30"/> </a>
                 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*sDXkyuukA4fRHuiu4UFctw.png"alt="Postman" width="70" height="30"/> </a>
-                <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="30" height="30"/> </a></td>
-      <td><b><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+                <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="30" height="30"/> </a>
+      </td>
+      <td>
+        <b><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/220px-Red_Hat_logo.svg.png"alt="Burpsuite" width="40" height="40"/> </a>
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png"alt="Burpsuite" width="40" height="40"/> </a>
                 <a href="" target="_blank" rel="noreferrer"> <img src="https://assets.raspberrypi.com/static/logo-663a71244b0e42ebedb0ddd72abcae73.png" width="40" height="40"/> </a>
-                <a href="" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/572/5689572-middle.png" width="40" height="40"/> </a></b></td>
+                <a href="" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/572/5689572-middle.png" width="40" height="40"/> </a></b>
+      </td>
+      <td>
+      <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/d/d7/VMware_Workstation_logo.jpg/revision/latest/scale-to-width-down/300?cb=20180424012243" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5-02AzrhddD_3tI3tVqtOCyhLlZ0VNzpMQZImtVe9Q&s" height="40"/> </a>
+      </td>
     </tr>
    <tr>
       <td><a href=""><b>project2</b></a></td>
