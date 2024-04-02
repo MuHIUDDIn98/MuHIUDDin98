@@ -11,7 +11,6 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 - Cyber security Analyst.
 - Networking
 - Problem solving
-- <script src="https://tryhackme.com/badge/1232782"></script>
 
 
 
