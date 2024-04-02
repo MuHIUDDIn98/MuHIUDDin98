@@ -131,7 +131,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
   <thead align="center">
     <tr border: none;>
       <td><b>Automation tools</b></td>
-      <td><b>Operating sytems skills</b></td>
+      <td><b>Operating systems skills</b></td>
       <td><b>Virtualization tools</b></td>
       <td><b>VAPT Tools</b></td>
   </thead>
