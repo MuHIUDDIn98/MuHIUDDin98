@@ -125,6 +125,34 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
   </tbody>
 </table>
 
+
+<h3>Essential used tools</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Automation tools</b></td>
+      <td><b>Short Description</b></td>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"alt="selenium" width="30" height="30"/> </a>
+                <a href="https://appium.io/docs/en/latest/intro/" target="_blank" rel="noreferrer"> <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png"alt="Appium" width="70" height="30"/> </a>
+                <a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://media.trustradius.com/vendor-logos/GD/vY/ELSDRTZ4CJV1.PNG"alt="Burpsuite" width="30" height="30"/> </a>
+                <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*sDXkyuukA4fRHuiu4UFctw.png"alt="Postman" width="70" height="30"/> </a>
+                <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="30" height="30"/> </a></td>
+      <td><b>it can resize resulation and size of any format of  image</b></td>
+    </tr>
+   <tr>
+      <td><a href=""><b>project2</b></a></td>
+      <td><b>Description</b></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>projects 3</b></a></td>
+      <td><b>Description</b></td>
+    </tr>
+  </tbody>
+</table>
+
 <h3 align="left">Operation system skills:</h3>
 <p>
                 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
