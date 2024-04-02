@@ -133,6 +133,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
       <td><b>Automation tools</b></td>
       <td><b>Operating sytems skills</b></td>
       <td><b>Virtualization tools</b></td>
+      <td><b>VAPT Tools</b></td>
   </thead>
   <tbody>
     <tr>
@@ -155,16 +156,15 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/d/d7/VMware_Workstation_logo.jpg/revision/latest/scale-to-width-down/300?cb=20180424012243" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5-02AzrhddD_3tI3tVqtOCyhLlZ0VNzpMQZImtVe9Q&s" height="40"/> </a>
       </td>
+      <td>
+        <a href="" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180524/egt/kisspng-metasploit-project-penetration-test-security-hacke-5b072f9ad4d962.7481310415271975948718.jpg" height="40"/> </a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="50" height="50"/> </a>
+<a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://media.trustradius.com/vendor-logos/GD/vY/ELSDRTZ4CJV1.PNG"alt="Burpsuite" width="30" height="30"/> </a>
+      </td>
     </tr>
   </tbody>
 </table>
 
-<h3 align="left">Operation system skills:</h3>
-<p>
-                
-
-                
-</p>
 
 - [Linux NoteBook](https://relic-amaranthus-d9a.notion.site/Linux-Essentials-149f0348d325411987d01bc1fe8e169a)
 
@@ -181,13 +181,6 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 
 
 
-<h3 align="left">VAPT Tools:</h3>
-<p>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180524/egt/kisspng-metasploit-project-penetration-test-security-hacke-5b072f9ad4d962.7481310415271975948718.jpg" height="40"/> </a>
-<a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="50" height="50"/> </a>
-<a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://media.trustradius.com/vendor-logos/GD/vY/ELSDRTZ4CJV1.PNG"alt="Burpsuite" width="30" height="30"/> </a>
-   
-</p>
 
 <h3 align="left">Badges:</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/falcon.anik2.png" alt="TryHackMe">
