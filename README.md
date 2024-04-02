@@ -17,7 +17,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-muhiuddin-a0b3331a7/) 
-<script src="https://tryhackme.com/badge/1232782"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/falcon.anik2.png" alt="TryHackMe">
 
 <h3>Automation testing Projects</h3>
 <table>
