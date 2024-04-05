@@ -80,8 +80,8 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
       <td><b>This tools can scan local subnet and findout alive IP and MAC address</b></td>
     </tr>
    <tr>
-      <td><a href=""><b>project2</b></a></td>
-      <td><b>Description</b></td>
+      <td><a href="https://github.com/MuHIUDDIn98/SubDomainEnamuration.git"><b>Subdomain Enamuration</b></a></td>
+      <td><b>discovering subdomains associated with a specified domain using brute-force methode</b></td>
     </tr>
     <tr>
       <td><a href=""><b>projects 3</b></a></td>
