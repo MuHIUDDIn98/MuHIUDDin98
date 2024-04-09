@@ -84,8 +84,8 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) professional with a 
       <td><b>discovering subdomains and DNS record associated with a specified domain using brute-force methode</b></td>
     </tr>
     <tr>
-      <td><a href=""><b>projects 3</b></a></td>
-      <td><b>Description</b></td>
+      <td><a href="https://github.com/MuHIUDDIn98/IP_Geolocation_finder.git"><b>Geolocation finder using IPinfo</b></a></td>
+      <td><b>This Python project utilizes the ipinfo library to geolocate IP addresses. By providing an IP address as input, the script retrieves detailed information such as the country, city, ISP, and more using the IPinfo API</b></td>
     </tr>
   </tbody>
 </table>
