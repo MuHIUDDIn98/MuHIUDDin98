@@ -66,7 +66,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) I am dedicated to de
 
 
 
-<h3>Python Recon Projects</h3>
+<h3>Python Recon Projects(information gathering)</h3>
 <table>
   <thead align="center">
     <tr border: none;>
