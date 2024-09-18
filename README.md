@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) I am dedicated to delivering high-quality products and improving customer satisfaction through efficient testing methods.
+Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) Engineer I am dedicated to delivering high-quality products and improving customer satisfaction through efficient testing methods.
 
 ### Skills:
 
