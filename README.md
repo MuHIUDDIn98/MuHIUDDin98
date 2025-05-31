@@ -138,7 +138,14 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) Engineer I am dedica
                   <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/gns3_94911.png" height="40"/> </a>
    
 </p>
------
+
+
+<h3 align="left">TryHackme learning Rooms and Badges:</h3>
+<a href="https://tryhackme.com/p/falcon.anik2" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/falcon.anik2.png" alt="TryHackMe"></a>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
 
 # 🧠 From Tutorials to Real-World Engineering: My Programmer mindset
 
@@ -329,8 +336,4 @@ Thanks for reading — and keep building.
 
 
 
-<h3 align="left">TryHackme learning Rooms and Badges:</h3>
-<a href="https://tryhackme.com/p/falcon.anik2" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/falcon.anik2.png" alt="TryHackMe"></a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
