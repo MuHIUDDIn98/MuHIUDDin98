@@ -140,7 +140,7 @@ Hello! I'm MD Muhiuddin, a Software Quality Assurance (SQA) Engineer I am dedica
 </p>
 -----
 
-# 🧠 From Tutorials to Real-World Engineering: My Developer Programmer mindset
+# 🧠 From Tutorials to Real-World Engineering: My Programmer mindset
 
 > Programming isn’t about knowing everything. It’s about **thinking clearly**, **solving real problems**, and **building things that work** — without losing your mind.
 
