@@ -85,11 +85,12 @@ Hi! I'm **MD Muhiuddin**, a passionate **Software Quality Assurance (SQA) Engine
 
 | 🔧 Tool        | 💬 Description                                      |
 |----------------|----------------------------------------------------|
-| ![Mikrotik](https://merch.mikrotik.com/cdn/shop/files/512.png?v=1657867177) **MikroTik**     | RouterOS & network management via Winbox / CLI |
-| ![Zabbix](https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg) **Zabbix**       | Monitoring and alerting for IT infrastructure  |
-| ![Nmap](https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png) **Nmap**         | Network scanning, host discovery, open ports   |
-| ![Wireshark](https://miro.medium.com/v2/resize:fit:705/1*jhOWv-JzWbg8MvDo0vnVEA.png) **Wireshark**   | Packet capturing and deep network inspection    |
-| ![GNS3](https://cdn.icon-icons.com/icons2/1381/PNG/512/gns3_94911.png) **GNS3**         | Network simulation and topological modeling     |
+| <img src="https://merch.mikrotik.com/cdn/shop/files/512.png?v=1657867177" width="100" height="100"/> **MikroTik**     | RouterOS & network management via Winbox / CLI |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" width="100" height="100"/> **Zabbix**       | Monitoring and alerting for IT infrastructure  |
+| <img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="100" height="100"/> **Nmap**         | Network scanning, host discovery, open ports   |
+| <img src="https://miro.medium.com/v2/resize:fit:705/1*jhOWv-JzWbg8MvDo0vnVEA.png" width="100" height="100"/> **Wireshark**   | Packet capturing and deep network inspection    |
+| <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/gns3_94911.png" width="100" height="100"/> **GNS3**         | Network simulation and topological modeling     |
+
 
 
 ---
