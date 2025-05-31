@@ -80,13 +80,17 @@ Hi! I'm **MD Muhiuddin**, a passionate **Software Quality Assurance (SQA) Engine
 
 ---
 
+
 ## 🌐 Networking Skills
 
-![Mikrotik](https://merch.mikrotik.com/cdn/shop/files/512.png?v=1657867177)
-![Zabbix](https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg)
-![Nmap](https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png)
-![Wireshark](https://miro.medium.com/v2/resize:fit:705/1*jhOWv-JzWbg8MvDo0vnVEA.png)
-![GNS3](https://cdn.icon-icons.com/icons2/1381/PNG/512/gns3_94911.png)
+| 🔧 Tool        | 💬 Description                                      |
+|----------------|----------------------------------------------------|
+| ![Mikrotik](https://merch.mikrotik.com/cdn/shop/files/512.png?v=1657867177) **MikroTik**     | RouterOS & network management via Winbox / CLI |
+| ![Zabbix](https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg) **Zabbix**       | Monitoring and alerting for IT infrastructure  |
+| ![Nmap](https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png) **Nmap**         | Network scanning, host discovery, open ports   |
+| ![Wireshark](https://miro.medium.com/v2/resize:fit:705/1*jhOWv-JzWbg8MvDo0vnVEA.png) **Wireshark**   | Packet capturing and deep network inspection    |
+| ![GNS3](https://cdn.icon-icons.com/icons2/1381/PNG/512/gns3_94911.png) **GNS3**         | Network simulation and topological modeling     |
+
 
 ---
 
