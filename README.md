@@ -104,9 +104,9 @@ Hi! I'm **MD Muhiuddin**, a passionate **Software Quality Assurance (SQA) Engine
 
 <table>
   <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Nmap-logo.svg" width="70" height="70" alt="Nmap"/><br>Nmap</td>
-    <td align="center"><img src="https://portswigger.net/cms/images/61/3a/bd0c-burp-suite-logo-icon.svg" width="70" height="70" alt="Burp Suite"/><br>Burp Suite</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Metasploit_logo.png" width="70" height="70" alt="Metasploit"/><br>Metasploit</td>
+    <td align="center"><img src="https://asset.brandfetch.io/idHnSFcYKj/idj4y8Dz-_.png" width="70" height="70" alt="Nmap"/><br>Nmap</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/800px-BurpSuite_Comunity_Edition.svg.png" width="70" height="70" alt="Burp Suite"/><br>Burp Suite</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe2dxapGsyIN1n-GMcfMVhivjb8YuufoaJvw&s" width="70" height="70" alt="Metasploit"/><br>Metasploit</td>
   </tr>
 </table>
 
