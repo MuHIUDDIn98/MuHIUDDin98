@@ -62,7 +62,7 @@ Hi! I'm **MD Muhiuddin**, a passionate **Software Quality Assurance (SQA) Engine
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="70" height="70" alt="Selenium"/><br>Selenium</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Appium_logo.svg" width="70" height="70" alt="Appium"/><br>Appium</td>
+    <td align="center"><img src="https://pbs.twimg.com/profile_images/1257663811076542466/0KVJyYNC_400x400.jpg" width="70" height="70" alt="Appium"/><br>Appium</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70" alt="Postman"/><br>Postman</td>
     <td align="center"><img src="https://playwright.dev/img/playwright-logo.svg" width="70" height="70" alt="Playwright"/><br>Playwright</td>
   </tr>
