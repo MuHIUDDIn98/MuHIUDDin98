@@ -83,7 +83,11 @@ Hi! I'm **MD Muhiuddin**, a passionate **Software Quality Assurance (SQA) Engine
 - [Coding Ninjas](https://www.naukri.com/code360/profile/Muhiuddin)
 - [TryHackMe](https://tryhackme.com/p/falcon.anik2)
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/falcon.anik2.png)
+## 🧠 Cybersecurity Learning Journey on TryHackMe
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Visit_Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/falcon.anik2)
+
+![TryHackMe Stats](https://tryhackme-images.s3.amazonaws.com/user/falcon.anik2.png)
 
 ---
 
