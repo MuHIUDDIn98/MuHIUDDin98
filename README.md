@@ -72,7 +72,7 @@ Hi! I'm **MD Muhiuddin**, a passionate **Software Quality Assurance (SQA) Engine
 
 <table>
   <tr>
-    <td align="center"><img src="https://k6.io/static/logo-21cb4a7a5413d43db9d1186d68f1f945.svg" width="70" height="70" alt="k6"/><br>k6</td>
+    <td align="center"><img src="https://gitlab.com/uploads/-/system/project/avatar/26797499/logo.png" width="70" height="70" alt="k6"/><br>k6</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="70" height="70" alt="Grafana"/><br>Grafana</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="70" height="70" alt="Pytest"/><br>Pytest</td>
   </tr>
@@ -85,7 +85,7 @@ Hi! I'm **MD Muhiuddin**, a passionate **Software Quality Assurance (SQA) Engine
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" alt="Linux"/><br>Linux</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="70" height="70" alt="Kali Linux"/><br>Kali</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_OS_logo.png" width="70" height="70" alt="Raspberry Pi OS"/><br>Raspberry Pi OS</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Red_Hat_logo.svg" width="70" height="70" alt="Red Hat"/><br>Red Hat</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKjRY_QyL-L9_3z57nYliIFwQLw3E8VUViOw&s" width="70" height="70" alt="Red Hat"/><br>Red Hat</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="70" height="70" alt="Windows"/><br>Windows</td>
   </tr>
 </table>
