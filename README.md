@@ -55,12 +55,61 @@ Hi! I'm **MD Muhiuddin**, a passionate **Software Quality Assurance (SQA) Engine
 
 ---
 
-## 🧰 Tools I Use
+# 🧰 Tools I Use
 
-### 🔬 Automation: `Selenium`, `Appium`, `Postman`  
-### 🖥 OS: `Linux`, `Kali`, `Raspberry Pi OS`, `Red Hat`, `Windows`  
-### 🧳 Virtualization: `VirtualBox`, `VMware`, `Docker`  
-### 🔐 VAPT: `Nmap`, `Burp Suite`, `Metasploit`
+## 🔬 Automation
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="70" height="70" alt="Selenium"/><br>Selenium</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Appium_logo.svg" width="70" height="70" alt="Appium"/><br>Appium</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70" alt="Postman"/><br>Postman</td>
+    <td align="center"><img src="https://playwright.dev/img/playwright-logo.svg" width="70" height="70" alt="Playwright"/><br>Playwright</td>
+  </tr>
+</table>
+
+## 🧪 Testing & Monitoring Tools
+
+<table>
+  <tr>
+    <td align="center"><img src="https://k6.io/static/logo-21cb4a7a5413d43db9d1186d68f1f945.svg" width="70" height="70" alt="k6"/><br>k6</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="70" height="70" alt="Grafana"/><br>Grafana</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="70" height="70" alt="Pytest"/><br>Pytest</td>
+  </tr>
+</table>
+
+## 🖥 OS
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" alt="Linux"/><br>Linux</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="70" height="70" alt="Kali Linux"/><br>Kali</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_OS_logo.png" width="70" height="70" alt="Raspberry Pi OS"/><br>Raspberry Pi OS</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Red_Hat_logo.svg" width="70" height="70" alt="Red Hat"/><br>Red Hat</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="70" height="70" alt="Windows"/><br>Windows</td>
+  </tr>
+</table>
+
+## 🧳 Virtualization
+
+<table>
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/VirtualBox_logo.png" width="70" height="70" alt="VirtualBox"/><br>VirtualBox</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/VMware_logo.svg" width="70" height="70" alt="VMware"/><br>VMware</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70" alt="Docker"/><br>Docker</td>
+  </tr>
+</table>
+
+## 🔐 VAPT
+
+<table>
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Nmap-logo.svg" width="70" height="70" alt="Nmap"/><br>Nmap</td>
+    <td align="center"><img src="https://portswigger.net/cms/images/61/3a/bd0c-burp-suite-logo-icon.svg" width="70" height="70" alt="Burp Suite"/><br>Burp Suite</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Metasploit_logo.png" width="70" height="70" alt="Metasploit"/><br>Metasploit</td>
+  </tr>
+</table>
+
 
 ---
 
